@@ -64,8 +64,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingsagar1" alt="codingsagar1" /></a> </p>
 </details>
-Thanks for visiting :heart:
+
+#### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/codingsagar1/count.svg)
+
 
 [twitter]: https://twitter.com/absurdistcodesd
 [instagram]: https://www.instagram.com/sagar_athgharad/
