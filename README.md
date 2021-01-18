@@ -1,4 +1,4 @@
-### Hey there img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif", I'm Sagar👋!
+### Hey there 👋, I'm Sagar!
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sagar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/absurdistcodes)
