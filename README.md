@@ -51,7 +51,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sagar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codingsagar1&show_icons=true&hide_border=true" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingsagar1&" alt="codingsagar1" /></p>
 
 
 </details>
