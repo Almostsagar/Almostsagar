@@ -4,11 +4,15 @@
 ## ❤️ Programming | 😍 Music | 🤷‍ Chess
 
 - 🌱 I’m currently learning Full Stack Web development | App Development.
+- 💼 I’m pursuing a Bachelor's degree in Software Engineering
 - 👯 I’m looking to enhance my skills
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and read history books
 - ⚡ Quote: Be the change you want to see in the world
 - 💬 Ask me about anything. I will try to help you as much as I can.
+- 📫 Please email via sagar19003@gmail.com to reach me.
+
+
 
 <img align="right" alt="Coding" width="400" src="https://geekshumor.com/wp-content/uploads/2013/11/Programmer-cat.jpg">
 
@@ -60,7 +64,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingsagar1" alt="codingsagar1" /></a> </p>
 </details>
-
+Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/codingsagar1/count.svg)
 
 [twitter]: https://twitter.com/absurdistcodesd
 [instagram]: https://www.instagram.com/sagar_athgharad/
