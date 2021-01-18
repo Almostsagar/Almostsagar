@@ -5,7 +5,7 @@
 
 ## I'm a Brother, Son, Developer, Friend!!
 
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to enhance my skills
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and read history books
