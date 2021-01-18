@@ -1,8 +1,6 @@
 ### Hey there 👋, I'm Sagar!
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Sagar)](https://twitter.com/absurdistcodes)
-
 ## I'm a Brother, Son, Developer, Friend!!
 
 - 🌱 I’m currently learning Javascript
