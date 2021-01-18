@@ -1,13 +1,14 @@
 ### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar!
 
 
-## I'm a Brother, Son, Developer, Friend!!
+## ❤️ Programming | 😍 Music | 🤷‍ Chess
 
-- 🌱 I’m currently learning everything!
+- 🌱 I’m currently learning Full Stack Web development | App Development.
 - 👯 I’m looking to enhance my skills
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and read history books
-
+- ⚡ Quote: Be the change you want to see in the world
+- 💬 Ask me about anything. I will try to help you as much as I can.
 
 <img align="right" alt="Coding" width="400" src="https://geekshumor.com/wp-content/uploads/2013/11/Programmer-cat.jpg">
 
@@ -50,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingsagar1&layout=compact&theme=radical&langs_count=8&hide=html,css">
 </a>
 
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: How about some stats ?</summary>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingsagar1&" alt="codingsagar1" /></p>
 
