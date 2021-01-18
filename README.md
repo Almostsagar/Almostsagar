@@ -57,8 +57,8 @@
 </details>
 
 
-[twitter]: https://twitter.com/absurdistcodes
-[instagram]: https://www.instagram.com/sagar_athghara/
-[linkedin]: https://www.linkedin.com/in/sagar-kumar-a1108b198/
-[facebook]:https://www.facebook.com/profile.php?id=100018854149575
+[twitter]: https://twitter.com/absurdistcodesd
+[instagram]: https://www.instagram.com/sagar_athgharad/
+[linkedin]: https://www.linkedin.com/in/sagar-kumar-a1108b198d/
+[facebook]:https://www.facebook.com/profile.php?id=100018854149575d
 [gmail]:sagar19003@gmail.com
