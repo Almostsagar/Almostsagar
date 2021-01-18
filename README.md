@@ -1,9 +1,9 @@
-### Hey there 👋, I'm Sagar!
+### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar!
 
 
 ## I'm a Brother, Son, Developer, Friend!!
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning everything!
 - 👯 I’m looking to enhance my skills
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and read history books
@@ -18,18 +18,33 @@
 [<img align="left" alt="Sagar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sagar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Sagar | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Sagar | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 <br />
 <br />
+
+
+    
+<a href="https://github.com/codingsagar1">
+  <img align="right" height="20%" width="20%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+</a>    
+
+
+
 
 ---
 
 
 <details>
+  <a href="https://github.com/codingsagar1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingsagar1&layout=compact&theme=radical&langs_count=8&hide=html,css">
+</a>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Sagar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codingsagar1&show_icons=true&hide_border=true" />
+
 
 </details>
 
@@ -38,3 +53,4 @@
 [instagram]: https://www.instagram.com/sagar_athghara/
 [linkedin]: https://www.linkedin.com/in/sagar-kumar-a1108b198/
 [facebook]:https://www.facebook.com/profile.php?id=100018854149575
+[gmail]:sagar19003@gmail.com
