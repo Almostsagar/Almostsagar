@@ -45,7 +45,7 @@ _____________|','   ///_/-------------/   |
 
 
 
-### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar!
+### नमस्ते  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar!
 
 
 ## ❤️ Programming | 😍 Music | 🤷‍ Chess
