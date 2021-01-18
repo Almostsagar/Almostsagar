@@ -12,6 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://geekshumor.com/wp-content/uploads/2013/11/Programmer-cat.jpg">
 
+ 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sagar's Spotify Playing" width="350" />](https://open.spotify.com/track/2BmwXAUDtEzKw4RGtHJu5B?si=RrhdzwCiTd6uFiQVAJ2dVg)
@@ -33,7 +34,7 @@
 <br />
 <br />
 
-
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
     
 <a href="https://github.com/codingsagar1">
   <img align="right" height="20%" width="20%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
