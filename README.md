@@ -54,5 +54,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/sagar-kumar-a1108b198d/
+[linkedin]: https://www.linkedin.com/in/sagar-kumar-a1108b198/
 [gmail]:sagar19003@gmail.com
