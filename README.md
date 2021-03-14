@@ -30,7 +30,11 @@
 
 
 ---
-
+<p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=codingsagar1&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codingsagar1&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
 
 ---
 
