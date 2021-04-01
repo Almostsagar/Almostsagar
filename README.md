@@ -4,7 +4,7 @@
 # <h1 style="text-align: left"> नमस्ते  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar!</h1>
 
 
- I am currently learning Android App Development using Java and Kotlin both.
+ 
  I also have some intermediate knowledge of C++, HTML/CSS and Python. 
  I also have a little experience with Web developement which I did as a part of my training in college.
 
