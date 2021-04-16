@@ -4,9 +4,7 @@
 # <h1 style="text-align: left"> नमस्ते  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar!</h1>
 
 
- 
- I also have some intermediate knowledge of C++, HTML/CSS and Python. 
- I also have a little experience with Web developement which I did as a part of my training in college.
+ I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer Science and engineering from GIET University, Gunupur. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops. I also have a little experience with Web developement which I did as a part of my training in college.
 
 
 
