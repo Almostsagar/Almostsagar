@@ -20,7 +20,7 @@
 [<img align="left" alt="codeSTACKr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<img align="left" alt="Sagar" src="https://img.shields.io/github/followers/codingsagar1?style=social" />
+<img align="left" alt="Sagar" src="https://img.shields.io/github/followers/Almostsagar?style=social" />
 
 
 
@@ -31,7 +31,7 @@
 
 
     
-<a href="https://github.com/codingsagar1">
+<a href="https://github.com/Almostsagar">
   
 </a>    
 
@@ -39,8 +39,8 @@
 ---
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=codingsagar1&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codingsagar1&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Almostsagar&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Almostsagar&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
 ---
