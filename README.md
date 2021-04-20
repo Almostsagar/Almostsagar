@@ -6,8 +6,11 @@
 
  I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer Science and engineering from GIET University, Gunupur. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops. I also have a little experience with Web developement which I did as a part of my training in college.
 
+## I'm a Computer Engineer 🖥 !!
 
-
+- 🌱 I love enhancing my skills in Android Dev, Statistics and Machine Learning.
+- 📚 I like to read a lot of books, from Philosophy, Fiction, Dharma... .
+- 🐤 You can read some of my Tweets [here](https://twitter.com/Sagar_699)
 
 
 
@@ -16,7 +19,9 @@
 ### Connect with me:
 [<img align="left" alt="Sagar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sagar | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Sagar" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <img align="left" alt="Sagar" src="https://img.shields.io/github/followers/codingsagar1?style=social" />
+
 <br />
 
 
@@ -43,3 +48,4 @@
 
 [linkedin]: https://www.linkedin.com/in/sagar-kumar-a1108b198/
 [gmail]:sagar19003@gmail.com
+[twitter]: https://twitter.com/Sagar_699
