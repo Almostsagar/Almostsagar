@@ -10,7 +10,7 @@
 
 - 🌱 I love enhancing my skills in Android Dev, Statistics and Machine Learning.
 - 📚 I like to read a lot of books, from Philosophy, Fiction, Dharma... .
-- 🐤 You can read some of my Tweets [here](https://twitter.com/Sagar_699)
+- 🐤 You can read some of my Tweets [here](https://twitter.com/Almostsagar)
 
 
 
