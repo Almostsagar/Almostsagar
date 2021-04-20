@@ -50,4 +50,4 @@
 
 [linkedin]: https://www.linkedin.com/in/sagar-kumar-a1108b198/
 [gmail]:sagar19003@gmail.com
-[twitter]: https://twitter.com/Sagar_699
+[twitter]: https://twitter.com/Almostsagar
