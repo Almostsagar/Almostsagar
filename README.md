@@ -1,17 +1,30 @@
 
 
+<h1 align="center"> नमस्ते  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar!</h1>
 
-# <h1 style="text-align: left"> नमस्ते  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar!</h1>
 
 
  I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer Science and engineering from GIET University, Gunupur. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops. I also have a little experience with Web developement which I did as a part of my training in college.
+<br />
 
-## I'm a Computer Engineer 🖥 !!
 
-- 🌱 I love enhancing my skills in Android Dev, Statistics and Machine Learning.
-- 📚 I like to read a lot of books, from Philosophy, Fiction, Dharma... .
+<h3 align="center">Full Stack Web + Mobile Developer 💻</h3>
+
+- 🌱 I love enhancing my skills in Android Dev, Full stack development.
+
+- 📚 I like to read a lot of books.
+
 - 🐤 You can read some of my Tweets [here](https://twitter.com/Almostsagar)
 
+- 🌱 I’m currently learning **NestJS, ThreeJS, WebGL, R3F, AWS**
+
+- 👨‍💻 Checkout some of my projects below.
+
+- 🏠 Visit my [Portfolio]()
+
+- 📝 Checkout my [blog]()
+
+- 💬 Ask me about **React, Javascript, Python, , Data Structures and Algorithms, HTML, CSS, MongoDB, React-Native**
 
 
  
@@ -26,7 +39,17 @@
 
 <br />
 
-
+<h2 align="center">⚡️ Technologies I work with</h2>
+<p align="center">
+   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+   <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" alt="css" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+   <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+   <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+</p>
 <br />
 
 
@@ -51,3 +74,7 @@
 [linkedin]: https://www.linkedin.com/in/sagar-kumar-a1108b198/
 [gmail]:sagar19003@gmail.com
 [twitter]: https://twitter.com/Almostsagar
+
+
+
+<h2 align="center">Thankyou for visiting! 😼:wink:</h2>
