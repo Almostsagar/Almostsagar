@@ -1,12 +1,7 @@
-
-
 <h1 align="center"> नमस्ते  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar!</h1>
 
-
-
- I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer Science and engineering from GIET University, Gunupur. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops. I also have a little experience with Web developement which I did as a part of my training in college.
+I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer Science and engineering from GIET University, Gunupur. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops. I also have a little experience with Web developement which I did as a part of my training in college.
 <br />
-
 
 <h3 align="center">Full Stack Web + Mobile Developer 💻</h3>
 
@@ -26,16 +21,12 @@
 
 - 💬 Ask me about **React, Javascript, Python, , Data Structures and Algorithms, HTML, CSS, MongoDB, React-Native**
 
-
- 
-
 ### Connect with me:
+
 [<img align="left" alt="codeSTACKr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <img align="left" alt="Sagar" src="https://img.shields.io/github/followers/Almostsagar?style=social" />
-
-
 
 <br />
 
@@ -52,14 +43,12 @@
 </p>
 <br />
 
-
-    
 <a href="https://github.com/Almostsagar">
   
-</a>    
-
+</a>
 
 ---
+
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Almostsagar&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
@@ -68,13 +57,8 @@
 
 ---
 
-
-
-
 [linkedin]: https://www.linkedin.com/in/sagar-kumar-a1108b198/
-[gmail]:sagar19003@gmail.com
+[gmail]: sagar19003@gmail.com
 [twitter]: https://twitter.com/Almostsagar
-
-
 
 <h2 align="center">Thankyou for visiting! 😼:wink:</h2>
