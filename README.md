@@ -15,9 +15,9 @@ I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer S
 
 - 👨‍💻 Checkout some of my projects below.
 
-- 🏠 Visit my Portfolio [here](https://almostsagar.medium.com/)
+- 🏠 Visit my Portfolio [here]()
 
-- 📝 Checkout my [blog]()
+- 📝 Checkout my [blog](https://almostsagar.medium.com/)
 
 - 💬 Ask me about **React, Javascript, Python, , Data Structures and Algorithms, HTML, CSS, MongoDB, React-Native**
 
