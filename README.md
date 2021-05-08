@@ -15,7 +15,7 @@ I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer S
 
 - 👨‍💻 Checkout some of my projects below.
 
-- 🏠 Visit my [Portfolio]()
+- 🏠 Visit my Portfolio [here](https://sagar19003.medium.com/)
 
 - 📝 Checkout my [blog]()
 
