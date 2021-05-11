@@ -10,7 +10,7 @@ I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer S
 - 📚 I like to read a lot of books.
 
 - 🐤 You can see my stopstalk [here](https://www.stopstalk.com/user/profile/almostsagar)
-- 
+-
 - 🐤 You can read some of my Tweets [here](https://twitter.com/Almostsagar)
 
 - 🌱 I’m currently learning **NestJS, ThreeJS, WebGL, R3F, AWS**
