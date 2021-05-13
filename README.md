@@ -11,7 +11,7 @@ I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer S
 
 - 🐤 You can see my competitive programming stats [here](https://www.stopstalk.com/user/profile/almostsagar)
 
-- 🐤 You can read some of my Tweets [here](https://twitter.com/Almostsagar)
+- 🕶 You can read some of my Tweets [here](https://twitter.com/Almostsagar)
 
 - 🌱 I’m currently learning **NestJS, ThreeJS, WebGL, R3F, AWS**
 
