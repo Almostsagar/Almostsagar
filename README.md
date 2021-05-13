@@ -7,7 +7,7 @@ I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer S
 
 - 🌱 I love enhancing my skills in Android Dev, Full stack development.
 
-- 📚 I like to read a lot of books.
+- 📚 I like reading of books, you can see my reads [here](https://www.goodreads.com/almostsagar).
 
 - 🐤 You can see my competitive programming stats [here](https://www.stopstalk.com/user/profile/almostsagar)
 
