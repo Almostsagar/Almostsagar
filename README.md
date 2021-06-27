@@ -21,7 +21,6 @@ I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer S
 
 - 📝 Checkout my [blog](https://almostsagar.medium.com/)
 
-- 💬 Ask me about **React, Javascript, Python, , Data Structures and Algorithms, HTML, CSS, MongoDB, React-Native**
 
 ### Connect with me:
 
@@ -35,10 +34,6 @@ I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer S
 <h2 align="center">⚡️ Technologies I work with</h2>
 <p align="center">
    <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-   <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" alt="css" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-   <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
    <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
