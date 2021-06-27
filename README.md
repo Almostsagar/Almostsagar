@@ -13,7 +13,7 @@ I am Sagar Kumar. I am doing Bachelor of Technology degree focused in Computer S
 
 - 🕶 You can read some of my Tweets [here](https://twitter.com/Almostsagar)
 
-- 🌱 I’m currently learning **NestJS, ThreeJS, WebGL, R3F, AWS**
+- 🌱 I’m currently learning **Flutter, AWS, Java**
 
 - 👨‍💻 Checkout some of my projects below.
 
