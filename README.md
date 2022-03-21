@@ -1,6 +1,6 @@
 <h1 align="center"> HEY 👋🏻, I'M SAGAR</h1>
 
-<div align="center">Visit My <a href="https://almostsagar.herokuapp.com">Portfolio</a></div>
+<div align="center">Visit My <a href="https://almostsagar.herokuapp.com" target="_blank">Portfolio</a></div>
 
 
 
