@@ -20,7 +20,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Almostsagar&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Almostsagar&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
-
+---
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8g6661y7g8nocnqutiobq7h3d&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=67e363&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8g6661y7g8nocnqutiobq7h3d&redirect=true)
 ---
 
 [linkedin]: https://www.linkedin.com/in/sagar-kumar-a1108b198/
